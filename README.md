@@ -24,4 +24,4 @@ A React-based mindfulness app designed to help users find peace through personal
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/vartika-seth/sukoon-app.git
+   git clone https://github.com/Vartika-Seth/sukoon-app.git
