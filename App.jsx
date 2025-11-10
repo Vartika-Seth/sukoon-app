@@ -669,4 +669,5 @@ export default function SukoonApp() {
   const saveAIAdvice = (advice) => {
     setAiAdvice(advice);
     try {
-      const userAdviceKey = `sukoon-advice-${username}
+
+      const userAdviceKey = `sukoon-advice-${username}`
